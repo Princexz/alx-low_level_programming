@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <time.h>
-#include <stdilib.h>
+#include <stdlib.h>
 /**
  * main - print last digit
  * code by: Prince Solomon
