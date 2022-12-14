@@ -4,11 +4,11 @@
  * Code by Prince Solomon
  * Retuen: 0
  */
-void print_alphabet(void)
+int main(void)
 {
-	char letter;
+void print_alphabet(void)
+	char lettere;
 	for (letter = 'a'; letter <= 'z'; letter++)
 		putchar(letter);
 	putchar('\n');
-	return (0);
 }
