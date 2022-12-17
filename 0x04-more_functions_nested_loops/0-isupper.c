@@ -1,8 +1,9 @@
 #include "main.h"
 
 /**
- * _isupper ‐ uppercase letters
- * @c: characters to check
+ * _isupper - uppercase letters
+ * @c: char to check
+ *
  * Prince Solomon
  * Return: 0 or 1
  */

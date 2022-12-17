@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_line - printing lines
+ * print_numbers - printing lines
  * @n: numbers of times
  * Program by prince and code by CyberTech
  * Return: void
@@ -13,7 +13,7 @@ void print_numbers(int n)
 
 	for (i = 0; i < n; i++)
 	{
-		_putchar('_');
+	_putchar('_');
 	}
 	_putchar('\n');
 }
