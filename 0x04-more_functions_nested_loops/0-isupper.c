@@ -5,7 +5,7 @@
  * @c: characters to check
  * Prince Solomon
  * Return: 0 or 1
- * */
+ */
 
 int _isupper(int c)
 
