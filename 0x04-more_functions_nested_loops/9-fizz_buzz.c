@@ -3,13 +3,13 @@
 
 /**
  * main - Enrty
+ *
  * Description: prints the numbers 1 - 100 w/
  * Fizz for multiples of 3, Bizz for multiple of 5,
  * and FizzBizz for multiple of both
  *
- * Return: 0
+ * Return: always 0
  */
-
 int main(void)
 {
 	int i;
