@@ -24,4 +24,4 @@ char *rot13(char *s)
 		}
 	}
 	return (s);
-}/*I'm a Software Engineer*/
+} /*I'm a Software Engineer*/
