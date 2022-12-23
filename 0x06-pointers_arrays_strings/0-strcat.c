@@ -6,6 +6,7 @@
  * @src:char
  * Return:char
  */
+
 char *_strcat(char *dest, char *src)
 {
 	char *s = dest;
@@ -23,4 +24,4 @@ char *_strcat(char *dest, char *src)
 	}
 	*dest = '\0';
 	return (s);
-}/*Prince Solomon*/
+} /*Prince Solomon*/
