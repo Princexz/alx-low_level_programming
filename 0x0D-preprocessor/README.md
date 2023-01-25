@@ -38,7 +38,7 @@ All of the following files are programs written in C:
 * Write a function-like macro SUM(x, y) that computes the sum of the numbers x and y.
 
 ### [6. Fun with the preprocessor](./101-preprocessor_abuse.c)
-* Write a program that can print Hello, Holberton, followed by a new line.
+* Write a program that can print Hello, alx_africa, followed by a new line.
 
 ---
 
