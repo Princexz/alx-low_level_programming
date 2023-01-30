@@ -90,7 +90,7 @@ All of the following files are programs written in C:
 ---
 
 ## Author
-* **JPrince Solomon** - [princexz](https://github.com/princexz)
+* **Prince Solomon** - [princexz](https://github.com/princexz)
 
 ## Acknowledgements :pray:
 
