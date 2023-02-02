@@ -55,7 +55,7 @@ All of the following files are scripts and programs written in C:
 
 ---
 
-## Author -black_nib
+## Author :black_nib:
 * **Prince Solomon** - [princexz](https://github.com/princexz)
 
 ## Acknowledgements :pray:
