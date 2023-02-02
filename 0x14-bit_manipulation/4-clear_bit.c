@@ -21,4 +21,4 @@ int clear_bit(unsigned long int *n, unsigned int index)
 		*n ^= m;
 
 	return (1);
-} /*princexz*/
+} /*Prince Solomon (princexz)*/
