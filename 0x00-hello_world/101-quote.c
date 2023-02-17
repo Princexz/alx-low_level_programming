@@ -1,6 +1,6 @@
 /*
  * File: 101-quote.c
- * Auth: Brennan D Baraban
+ * Auth: Prince Solomon 
  */
 
 #include <unistd.h>
