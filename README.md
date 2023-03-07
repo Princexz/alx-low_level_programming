@@ -34,7 +34,7 @@ This repository contains programs written for the low-level programming and algo
 
 ## Author :black_nib:
 
-* **Prince Solomon** [princexz](https://github.com/princexz)
+* ** Prince Solomon ** [princexz](https://github.com/princexz)
 
 ## Acknowledgements :pray:
 
