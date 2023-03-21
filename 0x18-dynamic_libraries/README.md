@@ -53,7 +53,7 @@ them and how to use them with `$LD_LIBRARY_PATH`, `nm`, `ldd`, and `ldconfig`.
 
 ## Author :black_nib:
 
-* ** Prince Solomon ** [princexz](https://github.com/princexz)
+* Prince Solomon [princexz](https://github.com/princexz)
 
 ## Acknowledgements :pray:
 
