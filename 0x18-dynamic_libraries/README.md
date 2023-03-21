@@ -18,7 +18,7 @@ Files | Description
 
 ## Author :black_nib:
 
-*  Prince Solomon * [princexz](https://github.com/princexz)
+*  Prince Solomon  [princexz](https://github.com/princexz)
 
 ## Acknowledgements :pray:
 
