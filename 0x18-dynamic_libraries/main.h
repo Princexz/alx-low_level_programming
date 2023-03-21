@@ -1,5 +1,5 @@
-#ifndef MAIN_H
-#define MAIN_H
+#ifndef _MAIN_H_
+#define _MAIN_H_
 
 int _putchar(char c);
 int _islower(int c);
@@ -22,8 +22,4 @@ unsigned int _strspn(char *s, char *accept);
 char *_strpbrk(char *s, char *accept);
 char *_strstr(char *haystack, char *needle);
 
-<<<<<<< HEAD
-#endif /* _MAIN_H_ */
-=======
-#endif/*MAIN_H*/
->>>>>>> a723b4b97dc73b7b294f1b80b0a834089ef3928a
+#endif
