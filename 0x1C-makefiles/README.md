@@ -128,7 +128,7 @@ What you should learn from this project:
 
 ---
 
-## Author
+## Author: :black_nib:
 * **Prince Solomon** - [princexz](https://github.com/princexz)
 
 ## Acknowledgements :pray:
